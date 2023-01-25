@@ -1,4 +1,4 @@
-# hack2023
+# Hakathon Project
 
 A new Flutter project.
 
